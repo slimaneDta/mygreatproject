@@ -2,3 +2,5 @@ ligne modifier par la branche master
 ligne 2
 ligne 3
 ligne 4
+
+Clement Birette s'est ajouté sur ce fichier
