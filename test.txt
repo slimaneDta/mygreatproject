@@ -1,6 +1,1 @@
-modibvglkglkhjb
-jhgljhglkkjmlkml
-modification mmmm
-hello word
-test de la commande git commit --amend
-maintenant on fait un --amend
+ligne 1
